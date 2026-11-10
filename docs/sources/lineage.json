@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "status": "planned_requirements_extraction",
+  "sources": [
+    {
+      "repository": "alvarovillalbaa/lab",
+      "revision": "ba67e510bab2703b1042993744ce099490221c1f",
+      "path": "docs/ARCHITECTURE.md",
+      "start_line": 56,
+      "end_line": 80,
+      "sha256": "d9ae9b56808fce58517c82c3b66b2bbc51ef828eb4fb38b2827bc8eb8232e65c",
+      "archive_path": "docs/sources/original-provider-storage.md"
+    }
+  ],
+  "policy": "Archived fragments are exact historical requirements. Active contracts are adapted; no recovered code or engine is implied."
+}
